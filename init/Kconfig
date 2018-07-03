@@ -1,8 +1,8 @@
-konfigurasi ARCH 
+daftar ARCH  
 	tali
 	opsi env = "ARCH"
 
-config KERNELVERSION
+konfig KERNELVERSION
 	string
 	option env="KERNELVERSION"
 
