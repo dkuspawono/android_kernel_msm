@@ -1,6 +1,6 @@
-config ARCH
-	string
-	option env="ARCH"
+konfigurasi ARCH 
+	tali
+	opsi env = "ARCH"
 
 config KERNELVERSION
 	string
